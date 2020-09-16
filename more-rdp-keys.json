@@ -6,7 +6,7 @@
   ],
   "rules": [
     {
-      "description": "Mac OSX RDP: Command-P to Control-P",
+      "description": "More RDP keys: Command-P to Control-P",
       "manipulators": [
           {
               "conditions": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "description": "Mac OSX RDP: Chrome developer console (command-option-i to ctrl-shift-i)",
+      "description": "More RDP keys: Chrome developer console (command-option-i to ctrl-shift-i)",
       "manipulators": [
           {
               "conditions": [
